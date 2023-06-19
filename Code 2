@@ -1,0 +1,3 @@
+#Enter the code below in cmd. Make sure you have Pycharm installed in your PC. Link to download:https://www.jetbrains.com/pycharm/download/#section=windows
+
+pip install pygame
